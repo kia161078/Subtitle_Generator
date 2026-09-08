@@ -21,15 +21,7 @@ WTSub is a cross-platform mobile application built with Flutter that automatical
 - **AI Engine:** Google Generative AI (`gemini-3.5-flash-lite`)
 - **Key Packages:** `file_picker`, `video_player`, `path_provider`, `shared_preferences`
 
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed on your system.
-- An active Firebase project with Authentication and Cloud Firestore enabled.
-- A valid Google Gemini API key.
-
-### Screenshots 
+## Screenshots 
 
 <img width="576" height="1280" alt="9" src="https://github.com/user-attachments/assets/b73f689d-8460-42a2-9b51-c406771326eb" />
 <img width="576" height="1280" alt="8" src="https://github.com/user-attachments/assets/fe387619-8e12-4478-8633-c1196984812d" />
@@ -41,6 +33,14 @@ WTSub is a cross-platform mobile application built with Flutter that automatical
 <img width="576" height="1280" alt="2" src="https://github.com/user-attachments/assets/11b8bcf8-d5c4-4c93-a10c-191634c24184" />
 <img width="576" height="1280" alt="1" src="https://github.com/user-attachments/assets/686916b5-a349-414d-8e70-97e31951f568" />
 
+
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed on your system.
+- An active Firebase project with Authentication and Cloud Firestore enabled.
+- A valid Google Gemini API key.
 
 ### Installation & Setup
 
